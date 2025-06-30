@@ -4,7 +4,7 @@ AgroGuru is a hybrid AI chatbot that combines rule-based NLP with generative AI 
 
 ---
 
-## 🌟 Features
+   🌟 Features
 
 - ✅ Responds to user queries using:
   - Predefined question-response pairs (`std_questions`)
@@ -20,5 +20,5 @@ AgroGuru is a hybrid AI chatbot that combines rule-based NLP with generative AI 
 
 ---
 
-## 📁 Project Structure
+
 
