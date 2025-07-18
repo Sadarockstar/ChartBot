@@ -1,6 +1,5 @@
 {
   "exit_commands": ["bye", "exit", "quit", "stop", "goodbye"],
   "greeting_inputs": ["hello", "hi", "hey", "greetings"],
-  "greeting_responses": ["Hi there!", "Hello!", "How can I help you today?"],
   "meet_questions": ["how are you", "how do you do", "how's it going"]
 }
