@@ -54,7 +54,7 @@ chat_session = model.start_chat(history=[])
 
 # Function to call Gemini and get response
 def call_gemini(query):
-    query += ", answer in 1 sentence exactly within 20 tokens"
+    query += ", answer in 1 sentence exactly within 20 tokens if related to farming else say i don't understand"
     response = chat_session.send_message(query)
     print("AgroGuru: " + response.text[:-2])  # Trim unnecessary end of response
 
