@@ -3,3 +3,65 @@ Chlorosis usually appears first on the lower leaves, the upper leaves
 remaining green.under severe N deficiency, lower leaves turn brown and die.
 Ideal NPK(Nirogen,phosphorous and Phottasium)concentration for wheat is  125,50,75(all in Kg/ha).
 Ideal NPK(Nirogen,phosphorous and Phottasium)concentration for rice is  120,80,60(all in Kg/ha).
+Nitrogen deficiency in plants has certain symptoms like yellowing of leaf veins.
+Chlorosis usually appears first on the lower leaves, the upper leaves remaining green.
+Under severe nitrogen deficiency, lower leaves turn brown and die.
+Ideal NPK (Nitrogen, Phosphorus, and Potassium) concentration for wheat is 125, 50, 75 (all in Kg/ha).
+Ideal NPK concentration for rice is 120, 80, 60 (all in Kg/ha).
+
+In maize, nitrogen deficiency leads to pale green leaves with a V-shaped yellowing starting from the tip of older leaves. Plants become stunted and show reduced vigor.
+Ideal NPK concentration for maize is 150, 60, 60 (all in Kg/ha).
+
+In cotton, older leaves turn pale green to yellow, and the plant exhibits stunted growth and poor boll development.
+Ideal NPK concentration for cotton is 90, 60, 60 (all in Kg/ha).
+
+In sugarcane, nitrogen deficiency results in yellowing of older leaves, poor tillering, and thin stalks.
+Ideal NPK concentration for sugarcane is 150, 85, 150 (all in Kg/ha).
+
+In tomato, lower leaves become yellowish, plant growth slows down, and fruit setting is poor.
+Ideal NPK concentration for tomato is 100, 60, 100 (all in Kg/ha).
+
+In potato, nitrogen deficiency causes reduced leaf size, yellowing of older leaves, and poor tuber formation.
+Ideal NPK concentration for potato is 120, 100, 150 (all in Kg/ha).
+
+In sunflower, nitrogen deficiency causes pale green leaves, reduced head size, and fewer seeds.
+Ideal NPK concentration for sunflower is 60, 60, 40 (all in Kg/ha).
+
+In soybean, nitrogen-deficient plants are pale, particularly on older leaves, and have reduced pod formation.
+Ideal NPK concentration for soybean is 60, 60, 40 (all in Kg/ha).
+
+In groundnut, deficiency symptoms include yellowing of older leaves, stunted growth, and poor pod development.
+Ideal NPK concentration for groundnut is 20, 40, 50 (all in Kg/ha).
+
+In chilli, nitrogen deficiency causes yellowing of lower leaves, reduced branching, and smaller fruits.
+Ideal NPK concentration for chilli is 100, 50, 50 (all in Kg/ha).
+
+In onion, nitrogen deficiency leads to pale leaves and reduced bulb size.
+Ideal NPK concentration for onion is 120, 60, 60 (all in Kg/ha).
+
+In brinjal (eggplant), older leaves yellow, fruits are fewer and smaller, and overall plant vigor is low.
+Ideal NPK concentration for brinjal is 100, 50, 50 (all in Kg/ha).
+
+In cabbage, symptoms include pale green older leaves, smaller heads, and poor overall growth.
+Ideal NPK concentration for cabbage is 120, 60, 60 (all in Kg/ha).
+
+In cauliflower, nitrogen-deficient plants produce loose or underdeveloped curds, and older leaves yellow early.
+Ideal NPK concentration for cauliflower is 125, 75, 75 (all in Kg/ha).
+
+In banana, nitrogen deficiency appears as general yellowing of leaves, poor bunch formation, and delayed flowering.
+Ideal NPK concentration for banana is 200, 40, 200 (all in Kg/ha).
+
+In garlic, nitrogen-deficient plants have pale green leaves and smaller bulbs.
+Ideal NPK concentration for garlic is 90, 60, 60 (all in Kg/ha).
+
+In okra (ladyfinger), nitrogen deficiency leads to yellowing of older leaves and fewer pods.
+Ideal NPK concentration for okra is 100, 60, 60 (all in Kg/ha).
+
+In coriander, nitrogen deficiency causes pale leaves, slow growth, and poor aroma.
+Ideal NPK concentration for coriander is 60, 30, 20 (all in Kg/ha).
+
+In spinach, yellowing appears rapidly, especially on older leaves, and the plant has poor leaf yield.
+Ideal NPK concentration for spinach is 100, 40, 40 (all in Kg/ha).
+
+In barley, older leaves turn yellow, plants grow slowly and have fewer tillers.
+Ideal NPK concentration for barley is 90, 40, 40 (all in Kg/ha).
