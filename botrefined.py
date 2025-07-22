@@ -34,8 +34,8 @@ genai.configure(api_key="AIzaSyBt8o3P6KJoaC8nixCFzWxROrHnavQoTz4")
 # Set up generation configuration for Gemini
 generation_config = {
     "temperature": 0.5,
-    "top_p": 0.95,
-    "top_k": 64,
+    "top_p": 0.95, #allows model to choose word from top 95% most likely option
+    "top_k": 64, #allows model to choose only from top 65 words.
     "max_output_tokens": 40,
     "response_mime_type": "text/plain",
 }
